@@ -1,0 +1,1204 @@
+{
+  "products": [
+    {
+      "ReviewId": "P0001_R0001",
+      "ProductId": "P0001",
+      "ProductName": "Nike Flex Fitness Tracker 2024",
+      "Brand": "Nike",
+      "ProductCategory": "Tracker",
+      "Rating": 4,
+      "ReviewTitle": "Design",
+      "ReviewText": "The display and overall design look great."
+    },
+    {
+      "ReviewId": "P0001_R0002",
+      "ProductId": "P0001",
+      "ProductName": "Nike Flex Fitness Tracker 2024",
+      "Brand": "Nike",
+      "ProductCategory": "Tracker",
+      "Rating": 5,
+      "ReviewTitle": "App Experience and Battery Life",
+      "ReviewText": "The companion app is easy to use and well organized. I wish the battery lasted longer because I need to charge it often."
+    },
+    {
+      "ReviewId": "P0001_R0003",
+      "ProductId": "P0001",
+      "ProductName": "Nike Flex Fitness Tracker 2024",
+      "Brand": "Nike",
+      "ProductCategory": "Tracker",
+      "Rating": 3,
+      "ReviewTitle": "Comfort and Connectivity",
+      "ReviewText": "The band feels comfortable even after several hours. I often have trouble keeping the tracker connected."
+    },
+    {
+      "ReviewId": "P0001_R0004",
+      "ProductId": "P0001",
+      "ProductName": "Nike Flex Fitness Tracker 2024",
+      "Brand": "Nike",
+      "ProductCategory": "Tracker",
+      "Rating": 2,
+      "ReviewTitle": "Connectivity and Comfort",
+      "ReviewText": "Connection with the phone is stable and reliable. It is comfortable to wear all day."
+    },
+    {
+      "ReviewId": "P0001_R0005",
+      "ProductId": "P0001",
+      "ProductName": "Nike Flex Fitness Tracker 2024",
+      "Brand": "Nike",
+      "ProductCategory": "Tracker",
+      "Rating": 4,
+      "ReviewTitle": "Comfort",
+      "ReviewText": "It is comfortable to wear all day."
+    },
+    {
+      "ReviewId": "P0001_R0006",
+      "ProductId": "P0001",
+      "ProductName": "Nike Flex Fitness Tracker 2024",
+      "Brand": "Nike",
+      "ProductCategory": "Tracker",
+      "Rating": 5,
+      "ReviewTitle": "Design",
+      "ReviewText": "The design looks modern and premium."
+    },
+    {
+      "ReviewId": "P0001_R0007",
+      "ProductId": "P0001",
+      "ProductName": "Nike Flex Fitness Tracker 2024",
+      "Brand": "Nike",
+      "ProductCategory": "Tracker",
+      "Rating": 3,
+      "ReviewTitle": "Battery Life",
+      "ReviewText": "I wish the battery lasted longer because I need to charge it often."
+    },
+    {
+      "ReviewId": "P0001_R0008",
+      "ProductId": "P0001",
+      "ProductName": "Nike Flex Fitness Tracker 2024",
+      "Brand": "Nike",
+      "ProductCategory": "Tracker",
+      "Rating": 5,
+      "ReviewTitle": "App Experience",
+      "ReviewText": "The app sometimes takes too long to sync data."
+    },
+    {
+      "ReviewId": "P0001_R0009",
+      "ProductId": "P0001",
+      "ProductName": "Nike Flex Fitness Tracker 2024",
+      "Brand": "Nike",
+      "ProductCategory": "Tracker",
+      "Rating": 3,
+      "ReviewTitle": "Connectivity",
+      "ReviewText": "Connection with the phone is stable and reliable."
+    },
+    {
+      "ReviewId": "P0001_R0010",
+      "ProductId": "P0001",
+      "ProductName": "Nike Flex Fitness Tracker 2024",
+      "Brand": "Nike",
+      "ProductCategory": "Tracker",
+      "Rating": 5,
+      "ReviewTitle": "Design",
+      "ReviewText": "I like the lightweight and attractive design."
+    },
+    {
+      "ReviewId": "P0001_R0011",
+      "ProductId": "P0001",
+      "ProductName": "Nike Flex Fitness Tracker 2024",
+      "Brand": "Nike",
+      "ProductCategory": "Tracker",
+      "Rating": 4,
+      "ReviewTitle": "Comfort and Battery Life",
+      "ReviewText": "The band feels comfortable even after several hours. Battery life is excellent and lasts several days on one charge."
+    },
+    {
+      "ReviewId": "P0001_R0012",
+      "ProductId": "P0001",
+      "ProductName": "Nike Flex Fitness Tracker 2024",
+      "Brand": "Nike",
+      "ProductCategory": "Tracker",
+      "Rating": 4,
+      "ReviewTitle": "Comfort",
+      "ReviewText": "The band feels comfortable even after several hours."
+    },
+    {
+      "ReviewId": "P0001_R0013",
+      "ProductId": "P0001",
+      "ProductName": "Nike Flex Fitness Tracker 2024",
+      "Brand": "Nike",
+      "ProductCategory": "Tracker",
+      "Rating": 3,
+      "ReviewTitle": "Design",
+      "ReviewText": "I like the lightweight and attractive design."
+    },
+    {
+      "ReviewId": "P0001_R0014",
+      "ProductId": "P0001",
+      "ProductName": "Nike Flex Fitness Tracker 2024",
+      "Brand": "Nike",
+      "ProductCategory": "Tracker",
+      "Rating": 4,
+      "ReviewTitle": "App Experience",
+      "ReviewText": "I like the app interface and the way it shows my activity."
+    },
+    {
+      "ReviewId": "P0001_R0015",
+      "ProductId": "P0001",
+      "ProductName": "Nike Flex Fitness Tracker 2024",
+      "Brand": "Nike",
+      "ProductCategory": "Tracker",
+      "Rating": 5,
+      "ReviewTitle": "Comfort and Design",
+      "ReviewText": "It is comfortable to wear all day. The display and overall design look great."
+    },
+    {
+      "ReviewId": "P0001_R0016",
+      "ProductId": "P0001",
+      "ProductName": "Nike Flex Fitness Tracker 2024",
+      "Brand": "Nike",
+      "ProductCategory": "Tracker",
+      "Rating": 5,
+      "ReviewTitle": "Design",
+      "ReviewText": "I like the lightweight and attractive design."
+    },
+    {
+      "ReviewId": "P0001_R0017",
+      "ProductId": "P0001",
+      "ProductName": "Nike Flex Fitness Tracker 2024",
+      "Brand": "Nike",
+      "ProductCategory": "Tracker",
+      "Rating": 4,
+      "ReviewTitle": "Battery Life",
+      "ReviewText": "Battery life is excellent and lasts several days on one charge."
+    },
+    {
+      "ReviewId": "P0001_R0018",
+      "ProductId": "P0001",
+      "ProductName": "Nike Flex Fitness Tracker 2024",
+      "Brand": "Nike",
+      "ProductCategory": "Tracker",
+      "Rating": 5,
+      "ReviewTitle": "Comfort and Connectivity",
+      "ReviewText": "It is comfortable to wear all day. Connection with the phone is stable and reliable."
+    },
+    {
+      "ReviewId": "P0001_R0019",
+      "ProductId": "P0001",
+      "ProductName": "Nike Flex Fitness Tracker 2024",
+      "Brand": "Nike",
+      "ProductCategory": "Tracker",
+      "Rating": 2,
+      "ReviewTitle": "Comfort and Connectivity",
+      "ReviewText": "The tracker is lightweight and comfortable during workouts. I often have trouble keeping the tracker connected."
+    },
+    {
+      "ReviewId": "P0001_R0020",
+      "ProductId": "P0001",
+      "ProductName": "Nike Flex Fitness Tracker 2024",
+      "Brand": "Nike",
+      "ProductCategory": "Tracker",
+      "Rating": 5,
+      "ReviewTitle": "Connectivity",
+      "ReviewText": "I often have trouble keeping the tracker connected."
+    },
+    {
+      "ReviewId": "P0056_R0001",
+      "ProductId": "P0056",
+      "ProductName": "LG Max Office Chair 2027",
+      "Brand": "LG",
+      "ProductCategory": "Chair",
+      "Rating": 3,
+      "ReviewTitle": "Assembly",
+      "ReviewText": "Putting the chair together was frustrating and took a long time."
+    },
+    {
+      "ReviewId": "P0056_R0002",
+      "ProductId": "P0056",
+      "ProductName": "LG Max Office Chair 2027",
+      "Brand": "LG",
+      "ProductCategory": "Chair",
+      "Rating": 4,
+      "ReviewTitle": "Assembly",
+      "ReviewText": "Assembly was quick and straightforward."
+    },
+    {
+      "ReviewId": "P0056_R0003",
+      "ProductId": "P0056",
+      "ProductName": "LG Max Office Chair 2027",
+      "Brand": "LG",
+      "ProductCategory": "Chair",
+      "Rating": 1,
+      "ReviewTitle": "Comfort",
+      "ReviewText": "The cushioning is too firm for extended use."
+    },
+    {
+      "ReviewId": "P0056_R0004",
+      "ProductId": "P0056",
+      "ProductName": "LG Max Office Chair 2027",
+      "Brand": "LG",
+      "ProductCategory": "Chair",
+      "Rating": 4,
+      "ReviewTitle": "Price and Comfort",
+      "ReviewText": "The price is reasonable for the features. The cushioning is too firm for extended use."
+    },
+    {
+      "ReviewId": "P0056_R0005",
+      "ProductId": "P0056",
+      "ProductName": "LG Max Office Chair 2027",
+      "Brand": "LG",
+      "ProductCategory": "Chair",
+      "Rating": 2,
+      "ReviewTitle": "Adjustability",
+      "ReviewText": "The height and armrests are easy to adjust."
+    },
+    {
+      "ReviewId": "P0056_R0006",
+      "ProductId": "P0056",
+      "ProductName": "LG Max Office Chair 2027",
+      "Brand": "LG",
+      "ProductCategory": "Chair",
+      "Rating": 2,
+      "ReviewTitle": "Back Support",
+      "ReviewText": "The lumbar support is excellent and helps my back."
+    },
+    {
+      "ReviewId": "P0056_R0007",
+      "ProductId": "P0056",
+      "ProductName": "LG Max Office Chair 2027",
+      "Brand": "LG",
+      "ProductCategory": "Chair",
+      "Rating": 5,
+      "ReviewTitle": "Price and Adjustability",
+      "ReviewText": "The price is reasonable for the features. There are plenty of adjustment options."
+    },
+    {
+      "ReviewId": "P0056_R0008",
+      "ProductId": "P0056",
+      "ProductName": "LG Max Office Chair 2027",
+      "Brand": "LG",
+      "ProductCategory": "Chair",
+      "Rating": 1,
+      "ReviewTitle": "Assembly and Build Quality",
+      "ReviewText": "Putting the chair together was frustrating and took a long time. The materials feel premium and durable."
+    },
+    {
+      "ReviewId": "P0056_R0009",
+      "ProductId": "P0056",
+      "ProductName": "LG Max Office Chair 2027",
+      "Brand": "LG",
+      "ProductCategory": "Chair",
+      "Rating": 4,
+      "ReviewTitle": "Build Quality and Assembly",
+      "ReviewText": "Some parts feel less sturdy than expected. Putting the chair together was frustrating and took a long time."
+    },
+    {
+      "ReviewId": "P0056_R0010",
+      "ProductId": "P0056",
+      "ProductName": "LG Max Office Chair 2027",
+      "Brand": "LG",
+      "ProductCategory": "Chair",
+      "Rating": 5,
+      "ReviewTitle": "Adjustability and Price",
+      "ReviewText": "There are plenty of adjustment options. The chair offers excellent value for the price."
+    },
+    {
+      "ReviewId": "P0056_R0011",
+      "ProductId": "P0056",
+      "ProductName": "LG Max Office Chair 2027",
+      "Brand": "LG",
+      "ProductCategory": "Chair",
+      "Rating": 5,
+      "ReviewTitle": "Build Quality",
+      "ReviewText": "The chair feels solid and well built."
+    },
+    {
+      "ReviewId": "P0056_R0012",
+      "ProductId": "P0056",
+      "ProductName": "LG Max Office Chair 2027",
+      "Brand": "LG",
+      "ProductCategory": "Chair",
+      "Rating": 3,
+      "ReviewTitle": "Back Support",
+      "ReviewText": "The lumbar support is not adjustable enough."
+    },
+    {
+      "ReviewId": "P0056_R0013",
+      "ProductId": "P0056",
+      "ProductName": "LG Max Office Chair 2027",
+      "Brand": "LG",
+      "ProductCategory": "Chair",
+      "Rating": 4,
+      "ReviewTitle": "Adjustability and Assembly",
+      "ReviewText": "There are plenty of adjustment options. The instructions made assembly easy."
+    },
+    {
+      "ReviewId": "P0056_R0014",
+      "ProductId": "P0056",
+      "ProductName": "LG Max Office Chair 2027",
+      "Brand": "LG",
+      "ProductCategory": "Chair",
+      "Rating": 3,
+      "ReviewTitle": "Build Quality",
+      "ReviewText": "Some parts feel less sturdy than expected."
+    },
+    {
+      "ReviewId": "P0056_R0015",
+      "ProductId": "P0056",
+      "ProductName": "LG Max Office Chair 2027",
+      "Brand": "LG",
+      "ProductCategory": "Chair",
+      "Rating": 3,
+      "ReviewTitle": "Adjustability",
+      "ReviewText": "The adjustment mechanism can be difficult to use."
+    },
+    {
+      "ReviewId": "P0056_R0016",
+      "ProductId": "P0056",
+      "ProductName": "LG Max Office Chair 2027",
+      "Brand": "LG",
+      "ProductCategory": "Chair",
+      "Rating": 3,
+      "ReviewTitle": "Adjustability",
+      "ReviewText": "The adjustment mechanism can be difficult to use."
+    },
+    {
+      "ReviewId": "P0056_R0017",
+      "ProductId": "P0056",
+      "ProductName": "LG Max Office Chair 2027",
+      "Brand": "LG",
+      "ProductCategory": "Chair",
+      "Rating": 2,
+      "ReviewTitle": "Comfort and Build Quality",
+      "ReviewText": "The seat feels comfortable even after several hours. The materials feel premium and durable."
+    },
+    {
+      "ReviewId": "P0056_R0018",
+      "ProductId": "P0056",
+      "ProductName": "LG Max Office Chair 2027",
+      "Brand": "LG",
+      "ProductCategory": "Chair",
+      "Rating": 2,
+      "ReviewTitle": "Adjustability",
+      "ReviewText": "The adjustment mechanism can be difficult to use."
+    },
+    {
+      "ReviewId": "P0056_R0019",
+      "ProductId": "P0056",
+      "ProductName": "LG Max Office Chair 2027",
+      "Brand": "LG",
+      "ProductCategory": "Chair",
+      "Rating": 5,
+      "ReviewTitle": "Assembly and Build Quality",
+      "ReviewText": "The instructions made assembly easy. The chair feels solid and well built."
+    },
+    {
+      "ReviewId": "P0056_R0020",
+      "ProductId": "P0056",
+      "ProductName": "LG Max Office Chair 2027",
+      "Brand": "LG",
+      "ProductCategory": "Chair",
+      "Rating": 1,
+      "ReviewTitle": "Price",
+      "ReviewText": "It feels expensive compared with similar chairs."
+    },
+    {
+      "ReviewId": "P0080_R0001",
+      "ProductId": "P0080",
+      "ProductName": "Canon Max 4K Smart TV 2027",
+      "Brand": "Canon",
+      "ProductCategory": "TV",
+      "Rating": 5,
+      "ReviewTitle": "Setup",
+      "ReviewText": "Installation instructions were clear."
+    },
+    {
+      "ReviewId": "P0080_R0002",
+      "ProductId": "P0080",
+      "ProductName": "Canon Max 4K Smart TV 2027",
+      "Brand": "Canon",
+      "ProductCategory": "TV",
+      "Rating": 5,
+      "ReviewTitle": "Smart Features",
+      "ReviewText": "The smart interface is fast and easy to navigate."
+    },
+    {
+      "ReviewId": "P0080_R0003",
+      "ProductId": "P0080",
+      "ProductName": "Canon Max 4K Smart TV 2027",
+      "Brand": "Canon",
+      "ProductCategory": "TV",
+      "Rating": 3,
+      "ReviewTitle": "Setup",
+      "ReviewText": "Installation instructions were clear."
+    },
+    {
+      "ReviewId": "P0080_R0004",
+      "ProductId": "P0080",
+      "ProductName": "Canon Max 4K Smart TV 2027",
+      "Brand": "Canon",
+      "ProductCategory": "TV",
+      "Rating": 5,
+      "ReviewTitle": "Connectivity",
+      "ReviewText": "HDMI and Wi-Fi connections work reliably."
+    },
+    {
+      "ReviewId": "P0080_R0005",
+      "ProductId": "P0080",
+      "ProductName": "Canon Max 4K Smart TV 2027",
+      "Brand": "Canon",
+      "ProductCategory": "TV",
+      "Rating": 5,
+      "ReviewTitle": "Picture Quality",
+      "ReviewText": "Colors look excellent and the picture is clear."
+    },
+    {
+      "ReviewId": "P0080_R0006",
+      "ProductId": "P0080",
+      "ProductName": "Canon Max 4K Smart TV 2027",
+      "Brand": "Canon",
+      "ProductCategory": "TV",
+      "Rating": 4,
+      "ReviewTitle": "Remote Control and Picture Quality",
+      "ReviewText": "The remote feels cluttered and takes time to learn. The 4K picture is sharp and vibrant."
+    },
+    {
+      "ReviewId": "P0080_R0007",
+      "ProductId": "P0080",
+      "ProductName": "Canon Max 4K Smart TV 2027",
+      "Brand": "Canon",
+      "ProductCategory": "TV",
+      "Rating": 5,
+      "ReviewTitle": "Picture Quality",
+      "ReviewText": "The picture quality is disappointing in dark scenes."
+    },
+    {
+      "ReviewId": "P0080_R0008",
+      "ProductId": "P0080",
+      "ProductName": "Canon Max 4K Smart TV 2027",
+      "Brand": "Canon",
+      "ProductCategory": "TV",
+      "Rating": 5,
+      "ReviewTitle": "Remote Control",
+      "ReviewText": "The buttons are easy to understand."
+    },
+    {
+      "ReviewId": "P0080_R0009",
+      "ProductId": "P0080",
+      "ProductName": "Canon Max 4K Smart TV 2027",
+      "Brand": "Canon",
+      "ProductCategory": "TV",
+      "Rating": 2,
+      "ReviewTitle": "Setup and Smart Features",
+      "ReviewText": "The TV was very easy to set up. The smart interface is fast and easy to navigate."
+    },
+    {
+      "ReviewId": "P0080_R0010",
+      "ProductId": "P0080",
+      "ProductName": "Canon Max 4K Smart TV 2027",
+      "Brand": "Canon",
+      "ProductCategory": "TV",
+      "Rating": 3,
+      "ReviewTitle": "Setup",
+      "ReviewText": "Initial setup took longer than expected."
+    },
+    {
+      "ReviewId": "P0080_R0011",
+      "ProductId": "P0080",
+      "ProductName": "Canon Max 4K Smart TV 2027",
+      "Brand": "Canon",
+      "ProductCategory": "TV",
+      "Rating": 5,
+      "ReviewTitle": "Connectivity and Sound Quality",
+      "ReviewText": "The TV sometimes loses its Wi-Fi connection. The built in speakers sound surprisingly good."
+    },
+    {
+      "ReviewId": "P0080_R0012",
+      "ProductId": "P0080",
+      "ProductName": "Canon Max 4K Smart TV 2027",
+      "Brand": "Canon",
+      "ProductCategory": "TV",
+      "Rating": 4,
+      "ReviewTitle": "Remote Control",
+      "ReviewText": "The remote is simple and responsive."
+    },
+    {
+      "ReviewId": "P0080_R0013",
+      "ProductId": "P0080",
+      "ProductName": "Canon Max 4K Smart TV 2027",
+      "Brand": "Canon",
+      "ProductCategory": "TV",
+      "Rating": 5,
+      "ReviewTitle": "Setup and Remote Control",
+      "ReviewText": "Installation instructions were clear. The remote is simple and responsive."
+    },
+    {
+      "ReviewId": "P0080_R0014",
+      "ProductId": "P0080",
+      "ProductName": "Canon Max 4K Smart TV 2027",
+      "Brand": "Canon",
+      "ProductCategory": "TV",
+      "Rating": 2,
+      "ReviewTitle": "Setup",
+      "ReviewText": "The TV was very easy to set up."
+    },
+    {
+      "ReviewId": "P0080_R0015",
+      "ProductId": "P0080",
+      "ProductName": "Canon Max 4K Smart TV 2027",
+      "Brand": "Canon",
+      "ProductCategory": "TV",
+      "Rating": 5,
+      "ReviewTitle": "Remote Control",
+      "ReviewText": "The buttons are easy to understand."
+    },
+    {
+      "ReviewId": "P0080_R0016",
+      "ProductId": "P0080",
+      "ProductName": "Canon Max 4K Smart TV 2027",
+      "Brand": "Canon",
+      "ProductCategory": "TV",
+      "Rating": 4,
+      "ReviewTitle": "Connectivity and Setup",
+      "ReviewText": "HDMI and Wi-Fi connections work reliably. Initial setup took longer than expected."
+    },
+    {
+      "ReviewId": "P0080_R0017",
+      "ProductId": "P0080",
+      "ProductName": "Canon Max 4K Smart TV 2027",
+      "Brand": "Canon",
+      "ProductCategory": "TV",
+      "Rating": 4,
+      "ReviewTitle": "Connectivity",
+      "ReviewText": "HDMI and Wi-Fi connections work reliably."
+    },
+    {
+      "ReviewId": "P0080_R0018",
+      "ProductId": "P0080",
+      "ProductName": "Canon Max 4K Smart TV 2027",
+      "Brand": "Canon",
+      "ProductCategory": "TV",
+      "Rating": 3,
+      "ReviewTitle": "Connectivity",
+      "ReviewText": "HDMI and Wi-Fi connections work reliably."
+    },
+    {
+      "ReviewId": "P0080_R0019",
+      "ProductId": "P0080",
+      "ProductName": "Canon Max 4K Smart TV 2027",
+      "Brand": "Canon",
+      "ProductCategory": "TV",
+      "Rating": 4,
+      "ReviewTitle": "Smart Features",
+      "ReviewText": "Some smart apps freeze occasionally."
+    },
+    {
+      "ReviewId": "P0080_R0020",
+      "ProductId": "P0080",
+      "ProductName": "Canon Max 4K Smart TV 2027",
+      "Brand": "Canon",
+      "ProductCategory": "TV",
+      "Rating": 5,
+      "ReviewTitle": "Picture Quality",
+      "ReviewText": "The 4K picture is sharp and vibrant."
+    },
+    {
+      "ReviewId": "P0030_R0001",
+      "ProductId": "P0030",
+      "ProductName": "Logitech Essential Wireless Earbuds 2025",
+      "Brand": "Logitech",
+      "ProductCategory": "Earbuds",
+      "Rating": 2,
+      "ReviewTitle": "Bluetooth Connectivity and Comfort",
+      "ReviewText": "Bluetooth disconnects unexpectedly. They fit securely without hurting my ears."
+    },
+    {
+      "ReviewId": "P0030_R0002",
+      "ProductId": "P0030",
+      "ProductName": "Logitech Essential Wireless Earbuds 2025",
+      "Brand": "Logitech",
+      "ProductCategory": "Earbuds",
+      "Rating": 3,
+      "ReviewTitle": "Comfort",
+      "ReviewText": "The earbuds are comfortable for several hours."
+    },
+    {
+      "ReviewId": "P0030_R0003",
+      "ProductId": "P0030",
+      "ProductName": "Logitech Essential Wireless Earbuds 2025",
+      "Brand": "Logitech",
+      "ProductCategory": "Earbuds",
+      "Rating": 4,
+      "ReviewTitle": "Bluetooth Connectivity",
+      "ReviewText": "Bluetooth disconnects unexpectedly."
+    },
+    {
+      "ReviewId": "P0030_R0004",
+      "ProductId": "P0030",
+      "ProductName": "Logitech Essential Wireless Earbuds 2025",
+      "Brand": "Logitech",
+      "ProductCategory": "Earbuds",
+      "Rating": 2,
+      "ReviewTitle": "Battery Life and Noise Cancellation",
+      "ReviewText": "The battery drains too quickly. Noise cancellation is weaker than I expected."
+    },
+    {
+      "ReviewId": "P0030_R0005",
+      "ProductId": "P0030",
+      "ProductName": "Logitech Essential Wireless Earbuds 2025",
+      "Brand": "Logitech",
+      "ProductCategory": "Earbuds",
+      "Rating": 2,
+      "ReviewTitle": "Bluetooth Connectivity",
+      "ReviewText": "Bluetooth disconnects unexpectedly."
+    },
+    {
+      "ReviewId": "P0030_R0006",
+      "ProductId": "P0030",
+      "ProductName": "Logitech Essential Wireless Earbuds 2025",
+      "Brand": "Logitech",
+      "ProductCategory": "Earbuds",
+      "Rating": 2,
+      "ReviewTitle": "Bluetooth Connectivity",
+      "ReviewText": "Bluetooth disconnects unexpectedly."
+    },
+    {
+      "ReviewId": "P0030_R0007",
+      "ProductId": "P0030",
+      "ProductName": "Logitech Essential Wireless Earbuds 2025",
+      "Brand": "Logitech",
+      "ProductCategory": "Earbuds",
+      "Rating": 3,
+      "ReviewTitle": "Noise Cancellation",
+      "ReviewText": "Noise cancellation is weaker than I expected."
+    },
+    {
+      "ReviewId": "P0030_R0008",
+      "ProductId": "P0030",
+      "ProductName": "Logitech Essential Wireless Earbuds 2025",
+      "Brand": "Logitech",
+      "ProductCategory": "Earbuds",
+      "Rating": 2,
+      "ReviewTitle": "Microphone",
+      "ReviewText": "Call quality is good and voices are easy to hear."
+    },
+    {
+      "ReviewId": "P0030_R0009",
+      "ProductId": "P0030",
+      "ProductName": "Logitech Essential Wireless Earbuds 2025",
+      "Brand": "Logitech",
+      "ProductCategory": "Earbuds",
+      "Rating": 3,
+      "ReviewTitle": "Battery Life",
+      "ReviewText": "The battery drains too quickly."
+    },
+    {
+      "ReviewId": "P0030_R0010",
+      "ProductId": "P0030",
+      "ProductName": "Logitech Essential Wireless Earbuds 2025",
+      "Brand": "Logitech",
+      "ProductCategory": "Earbuds",
+      "Rating": 4,
+      "ReviewTitle": "Sound Quality",
+      "ReviewText": "The audio sounds flat and lacks bass."
+    },
+    {
+      "ReviewId": "P0030_R0011",
+      "ProductId": "P0030",
+      "ProductName": "Logitech Essential Wireless Earbuds 2025",
+      "Brand": "Logitech",
+      "ProductCategory": "Earbuds",
+      "Rating": 4,
+      "ReviewTitle": "Sound Quality and Bluetooth Connectivity",
+      "ReviewText": "The audio sounds flat and lacks bass. Bluetooth pairing is fast and reliable."
+    },
+    {
+      "ReviewId": "P0030_R0012",
+      "ProductId": "P0030",
+      "ProductName": "Logitech Essential Wireless Earbuds 2025",
+      "Brand": "Logitech",
+      "ProductCategory": "Earbuds",
+      "Rating": 2,
+      "ReviewTitle": "Noise Cancellation",
+      "ReviewText": "Noise cancellation is weaker than I expected."
+    },
+    {
+      "ReviewId": "P0030_R0013",
+      "ProductId": "P0030",
+      "ProductName": "Logitech Essential Wireless Earbuds 2025",
+      "Brand": "Logitech",
+      "ProductCategory": "Earbuds",
+      "Rating": 2,
+      "ReviewTitle": "Battery Life",
+      "ReviewText": "The battery drains too quickly."
+    },
+    {
+      "ReviewId": "P0030_R0014",
+      "ProductId": "P0030",
+      "ProductName": "Logitech Essential Wireless Earbuds 2025",
+      "Brand": "Logitech",
+      "ProductCategory": "Earbuds",
+      "Rating": 1,
+      "ReviewTitle": "Battery Life and Microphone",
+      "ReviewText": "The earbuds last all day on a charge. The microphone sounds clear on calls."
+    },
+    {
+      "ReviewId": "P0030_R0015",
+      "ProductId": "P0030",
+      "ProductName": "Logitech Essential Wireless Earbuds 2025",
+      "Brand": "Logitech",
+      "ProductCategory": "Earbuds",
+      "Rating": 1,
+      "ReviewTitle": "Battery Life and Bluetooth Connectivity",
+      "ReviewText": "Battery life is impressive for wireless earbuds. The connection remains stable throughout the day."
+    },
+    {
+      "ReviewId": "P0030_R0016",
+      "ProductId": "P0030",
+      "ProductName": "Logitech Essential Wireless Earbuds 2025",
+      "Brand": "Logitech",
+      "ProductCategory": "Earbuds",
+      "Rating": 2,
+      "ReviewTitle": "Bluetooth Connectivity and Sound Quality",
+      "ReviewText": "The connection remains stable throughout the day. Music sounds detailed and balanced."
+    },
+    {
+      "ReviewId": "P0030_R0017",
+      "ProductId": "P0030",
+      "ProductName": "Logitech Essential Wireless Earbuds 2025",
+      "Brand": "Logitech",
+      "ProductCategory": "Earbuds",
+      "Rating": 3,
+      "ReviewTitle": "Comfort",
+      "ReviewText": "The earbuds are comfortable for several hours."
+    },
+    {
+      "ReviewId": "P0030_R0018",
+      "ProductId": "P0030",
+      "ProductName": "Logitech Essential Wireless Earbuds 2025",
+      "Brand": "Logitech",
+      "ProductCategory": "Earbuds",
+      "Rating": 5,
+      "ReviewTitle": "Bluetooth Connectivity",
+      "ReviewText": "The connection remains stable throughout the day."
+    },
+    {
+      "ReviewId": "P0030_R0019",
+      "ProductId": "P0030",
+      "ProductName": "Logitech Essential Wireless Earbuds 2025",
+      "Brand": "Logitech",
+      "ProductCategory": "Earbuds",
+      "Rating": 2,
+      "ReviewTitle": "Comfort",
+      "ReviewText": "They fit securely without hurting my ears."
+    },
+    {
+      "ReviewId": "P0030_R0020",
+      "ProductId": "P0030",
+      "ProductName": "Logitech Essential Wireless Earbuds 2025",
+      "Brand": "Logitech",
+      "ProductCategory": "Earbuds",
+      "Rating": 1,
+      "ReviewTitle": "Comfort",
+      "ReviewText": "They become uncomfortable after extended use."
+    },
+    {
+      "ReviewId": "P0087_R0001",
+      "ProductId": "P0087",
+      "ProductName": "Adidas Max Gaming Laptop 2026",
+      "Brand": "Adidas",
+      "ProductCategory": "Laptop",
+      "Rating": 5,
+      "ReviewTitle": "Keyboard",
+      "ReviewText": "The keyboard feels responsive and comfortable."
+    },
+    {
+      "ReviewId": "P0087_R0002",
+      "ProductId": "P0087",
+      "ProductName": "Adidas Max Gaming Laptop 2026",
+      "Brand": "Adidas",
+      "ProductCategory": "Laptop",
+      "Rating": 4,
+      "ReviewTitle": "Thermals and Display",
+      "ReviewText": "The laptop stays reasonably cool during normal use. The display is bright with excellent colors."
+    },
+    {
+      "ReviewId": "P0087_R0003",
+      "ProductId": "P0087",
+      "ProductName": "Adidas Max Gaming Laptop 2026",
+      "Brand": "Adidas",
+      "ProductCategory": "Laptop",
+      "Rating": 4,
+      "ReviewTitle": "Performance",
+      "ReviewText": "Games run smoothly with excellent performance."
+    },
+    {
+      "ReviewId": "P0087_R0004",
+      "ProductId": "P0087",
+      "ProductName": "Adidas Max Gaming Laptop 2026",
+      "Brand": "Adidas",
+      "ProductCategory": "Laptop",
+      "Rating": 5,
+      "ReviewTitle": "Gaming",
+      "ReviewText": "It handles modern games smoothly."
+    },
+    {
+      "ReviewId": "P0087_R0005",
+      "ProductId": "P0087",
+      "ProductName": "Adidas Max Gaming Laptop 2026",
+      "Brand": "Adidas",
+      "ProductCategory": "Laptop",
+      "Rating": 5,
+      "ReviewTitle": "Thermals",
+      "ReviewText": "The laptop gets very hot during long gaming sessions."
+    },
+    {
+      "ReviewId": "P0087_R0006",
+      "ProductId": "P0087",
+      "ProductName": "Adidas Max Gaming Laptop 2026",
+      "Brand": "Adidas",
+      "ProductCategory": "Laptop",
+      "Rating": 4,
+      "ReviewTitle": "Performance",
+      "ReviewText": "The laptop handles demanding applications very well."
+    },
+    {
+      "ReviewId": "P0087_R0007",
+      "ProductId": "P0087",
+      "ProductName": "Adidas Max Gaming Laptop 2026",
+      "Brand": "Adidas",
+      "ProductCategory": "Laptop",
+      "Rating": 5,
+      "ReviewTitle": "Display",
+      "ReviewText": "The screen has noticeable brightness issues."
+    },
+    {
+      "ReviewId": "P0087_R0008",
+      "ProductId": "P0087",
+      "ProductName": "Adidas Max Gaming Laptop 2026",
+      "Brand": "Adidas",
+      "ProductCategory": "Laptop",
+      "Rating": 5,
+      "ReviewTitle": "Thermals and Gaming",
+      "ReviewText": "The laptop stays reasonably cool during normal use. Gaming performance is excellent at high settings."
+    },
+    {
+      "ReviewId": "P0087_R0009",
+      "ProductId": "P0087",
+      "ProductName": "Adidas Max Gaming Laptop 2026",
+      "Brand": "Adidas",
+      "ProductCategory": "Laptop",
+      "Rating": 4,
+      "ReviewTitle": "Gaming and Display",
+      "ReviewText": "Some games experience frame drops at higher settings. The screen has noticeable brightness issues."
+    },
+    {
+      "ReviewId": "P0087_R0010",
+      "ProductId": "P0087",
+      "ProductName": "Adidas Max Gaming Laptop 2026",
+      "Brand": "Adidas",
+      "ProductCategory": "Laptop",
+      "Rating": 5,
+      "ReviewTitle": "Battery Life and Thermals",
+      "ReviewText": "The battery lasts through most of my workday. The laptop gets very hot during long gaming sessions."
+    },
+    {
+      "ReviewId": "P0087_R0011",
+      "ProductId": "P0087",
+      "ProductName": "Adidas Max Gaming Laptop 2026",
+      "Brand": "Adidas",
+      "ProductCategory": "Laptop",
+      "Rating": 5,
+      "ReviewTitle": "Gaming",
+      "ReviewText": "Some games experience frame drops at higher settings."
+    },
+    {
+      "ReviewId": "P0087_R0012",
+      "ProductId": "P0087",
+      "ProductName": "Adidas Max Gaming Laptop 2026",
+      "Brand": "Adidas",
+      "ProductCategory": "Laptop",
+      "Rating": 4,
+      "ReviewTitle": "Performance",
+      "ReviewText": "The laptop handles demanding applications very well."
+    },
+    {
+      "ReviewId": "P0087_R0013",
+      "ProductId": "P0087",
+      "ProductName": "Adidas Max Gaming Laptop 2026",
+      "Brand": "Adidas",
+      "ProductCategory": "Laptop",
+      "Rating": 5,
+      "ReviewTitle": "Keyboard",
+      "ReviewText": "The keyboard feels responsive and comfortable."
+    },
+    {
+      "ReviewId": "P0087_R0014",
+      "ProductId": "P0087",
+      "ProductName": "Adidas Max Gaming Laptop 2026",
+      "Brand": "Adidas",
+      "ProductCategory": "Laptop",
+      "Rating": 5,
+      "ReviewTitle": "Gaming",
+      "ReviewText": "Gaming performance is excellent at high settings."
+    },
+    {
+      "ReviewId": "P0087_R0015",
+      "ProductId": "P0087",
+      "ProductName": "Adidas Max Gaming Laptop 2026",
+      "Brand": "Adidas",
+      "ProductCategory": "Laptop",
+      "Rating": 5,
+      "ReviewTitle": "Gaming",
+      "ReviewText": "Gaming performance is excellent at high settings."
+    },
+    {
+      "ReviewId": "P0087_R0016",
+      "ProductId": "P0087",
+      "ProductName": "Adidas Max Gaming Laptop 2026",
+      "Brand": "Adidas",
+      "ProductCategory": "Laptop",
+      "Rating": 5,
+      "ReviewTitle": "Gaming and Performance",
+      "ReviewText": "Some games experience frame drops at higher settings. The laptop handles demanding applications very well."
+    },
+    {
+      "ReviewId": "P0087_R0017",
+      "ProductId": "P0087",
+      "ProductName": "Adidas Max Gaming Laptop 2026",
+      "Brand": "Adidas",
+      "ProductCategory": "Laptop",
+      "Rating": 5,
+      "ReviewTitle": "Thermals",
+      "ReviewText": "The laptop stays reasonably cool during normal use."
+    },
+    {
+      "ReviewId": "P0087_R0018",
+      "ProductId": "P0087",
+      "ProductName": "Adidas Max Gaming Laptop 2026",
+      "Brand": "Adidas",
+      "ProductCategory": "Laptop",
+      "Rating": 4,
+      "ReviewTitle": "Display",
+      "ReviewText": "The display is bright with excellent colors."
+    },
+    {
+      "ReviewId": "P0087_R0019",
+      "ProductId": "P0087",
+      "ProductName": "Adidas Max Gaming Laptop 2026",
+      "Brand": "Adidas",
+      "ProductCategory": "Laptop",
+      "Rating": 5,
+      "ReviewTitle": "Display",
+      "ReviewText": "The display is bright with excellent colors."
+    },
+    {
+      "ReviewId": "P0087_R0020",
+      "ProductId": "P0087",
+      "ProductName": "Adidas Max Gaming Laptop 2026",
+      "Brand": "Adidas",
+      "ProductCategory": "Laptop",
+      "Rating": 5,
+      "ReviewTitle": "Keyboard",
+      "ReviewText": "The keys have good travel for gaming."
+    },
+    {
+      "ReviewId": "P0099_R0001",
+      "ProductId": "P0099",
+      "ProductName": "Sony Essential Soundbar 2025",
+      "Brand": "Sony",
+      "ProductCategory": "Soundbar",
+      "Rating": 3,
+      "ReviewTitle": "Setup and Connectivity",
+      "ReviewText": "Installation instructions were clear. The connection drops occasionally."
+    },
+    {
+      "ReviewId": "P0099_R0002",
+      "ProductId": "P0099",
+      "ProductName": "Sony Essential Soundbar 2025",
+      "Brand": "Sony",
+      "ProductCategory": "Soundbar",
+      "Rating": 5,
+      "ReviewTitle": "Design and Connectivity",
+      "ReviewText": "The soundbar looks sleek. The connection drops occasionally."
+    },
+    {
+      "ReviewId": "P0099_R0003",
+      "ProductId": "P0099",
+      "ProductName": "Sony Essential Soundbar 2025",
+      "Brand": "Sony",
+      "ProductCategory": "Soundbar",
+      "Rating": 2,
+      "ReviewTitle": "Design",
+      "ReviewText": "The soundbar looks sleek."
+    },
+    {
+      "ReviewId": "P0099_R0004",
+      "ProductId": "P0099",
+      "ProductName": "Sony Essential Soundbar 2025",
+      "Brand": "Sony",
+      "ProductCategory": "Soundbar",
+      "Rating": 2,
+      "ReviewTitle": "Sound Quality",
+      "ReviewText": "The sound is clear and detailed."
+    },
+    {
+      "ReviewId": "P0099_R0005",
+      "ProductId": "P0099",
+      "ProductName": "Sony Essential Soundbar 2025",
+      "Brand": "Sony",
+      "ProductCategory": "Soundbar",
+      "Rating": 2,
+      "ReviewTitle": "Setup and Bass",
+      "ReviewText": "Setup took longer than expected. The bass adds a lot to movies."
+    },
+    {
+      "ReviewId": "P0099_R0006",
+      "ProductId": "P0099",
+      "ProductName": "Sony Essential Soundbar 2025",
+      "Brand": "Sony",
+      "ProductCategory": "Soundbar",
+      "Rating": 2,
+      "ReviewTitle": "Connectivity and Bass",
+      "ReviewText": "The connection drops occasionally. The bass adds a lot to movies."
+    },
+    {
+      "ReviewId": "P0099_R0007",
+      "ProductId": "P0099",
+      "ProductName": "Sony Essential Soundbar 2025",
+      "Brand": "Sony",
+      "ProductCategory": "Soundbar",
+      "Rating": 2,
+      "ReviewTitle": "Bass",
+      "ReviewText": "The bass adds a lot to movies."
+    },
+    {
+      "ReviewId": "P0099_R0008",
+      "ProductId": "P0099",
+      "ProductName": "Sony Essential Soundbar 2025",
+      "Brand": "Sony",
+      "ProductCategory": "Soundbar",
+      "Rating": 2,
+      "ReviewTitle": "Remote Control",
+      "ReviewText": "The remote layout is confusing."
+    },
+    {
+      "ReviewId": "P0099_R0009",
+      "ProductId": "P0099",
+      "ProductName": "Sony Essential Soundbar 2025",
+      "Brand": "Sony",
+      "ProductCategory": "Soundbar",
+      "Rating": 3,
+      "ReviewTitle": "Setup",
+      "ReviewText": "Installation instructions were clear."
+    },
+    {
+      "ReviewId": "P0099_R0010",
+      "ProductId": "P0099",
+      "ProductName": "Sony Essential Soundbar 2025",
+      "Brand": "Sony",
+      "ProductCategory": "Soundbar",
+      "Rating": 2,
+      "ReviewTitle": "Setup and Connectivity",
+      "ReviewText": "Setup was quick and simple. Bluetooth connects quickly."
+    },
+    {
+      "ReviewId": "P0099_R0011",
+      "ProductId": "P0099",
+      "ProductName": "Sony Essential Soundbar 2025",
+      "Brand": "Sony",
+      "ProductCategory": "Soundbar",
+      "Rating": 4,
+      "ReviewTitle": "Remote Control and Bass",
+      "ReviewText": "Buttons are responsive. Bass is deep and powerful."
+    },
+    {
+      "ReviewId": "P0099_R0012",
+      "ProductId": "P0099",
+      "ProductName": "Sony Essential Soundbar 2025",
+      "Brand": "Sony",
+      "ProductCategory": "Soundbar",
+      "Rating": 5,
+      "ReviewTitle": "Setup",
+      "ReviewText": "Setup took longer than expected."
+    },
+    {
+      "ReviewId": "P0099_R0013",
+      "ProductId": "P0099",
+      "ProductName": "Sony Essential Soundbar 2025",
+      "Brand": "Sony",
+      "ProductCategory": "Soundbar",
+      "Rating": 1,
+      "ReviewTitle": "Sound Quality",
+      "ReviewText": "The sound quality is disappointing at higher volume."
+    },
+    {
+      "ReviewId": "P0099_R0014",
+      "ProductId": "P0099",
+      "ProductName": "Sony Essential Soundbar 2025",
+      "Brand": "Sony",
+      "ProductCategory": "Soundbar",
+      "Rating": 4,
+      "ReviewTitle": "Sound Quality",
+      "ReviewText": "Dialogue is easy to understand."
+    },
+    {
+      "ReviewId": "P0099_R0015",
+      "ProductId": "P0099",
+      "ProductName": "Sony Essential Soundbar 2025",
+      "Brand": "Sony",
+      "ProductCategory": "Soundbar",
+      "Rating": 4,
+      "ReviewTitle": "Setup",
+      "ReviewText": "Setup took longer than expected."
+    },
+    {
+      "ReviewId": "P0099_R0016",
+      "ProductId": "P0099",
+      "ProductName": "Sony Essential Soundbar 2025",
+      "Brand": "Sony",
+      "ProductCategory": "Soundbar",
+      "Rating": 3,
+      "ReviewTitle": "Bass",
+      "ReviewText": "Bass is weaker than expected."
+    },
+    {
+      "ReviewId": "P0099_R0017",
+      "ProductId": "P0099",
+      "ProductName": "Sony Essential Soundbar 2025",
+      "Brand": "Sony",
+      "ProductCategory": "Soundbar",
+      "Rating": 3,
+      "ReviewTitle": "Sound Quality and Design",
+      "ReviewText": "The sound quality is disappointing at higher volume. The soundbar looks sleek."
+    },
+    {
+      "ReviewId": "P0099_R0018",
+      "ProductId": "P0099",
+      "ProductName": "Sony Essential Soundbar 2025",
+      "Brand": "Sony",
+      "ProductCategory": "Soundbar",
+      "Rating": 3,
+      "ReviewTitle": "Setup and Connectivity",
+      "ReviewText": "Setup took longer than expected. Bluetooth connects quickly."
+    },
+    {
+      "ReviewId": "P0099_R0019",
+      "ProductId": "P0099",
+      "ProductName": "Sony Essential Soundbar 2025",
+      "Brand": "Sony",
+      "ProductCategory": "Soundbar",
+      "Rating": 1,
+      "ReviewTitle": "Remote Control",
+      "ReviewText": "The remote layout is confusing."
+    },
+    {
+      "ReviewId": "P0099_R0020",
+      "ProductId": "P0099",
+      "ProductName": "Sony Essential Soundbar 2025",
+      "Brand": "Sony",
+      "ProductCategory": "Soundbar",
+      "Rating": 2,
+      "ReviewTitle": "Design and Bass",
+      "ReviewText": "The design feels bulky. Bass is deep and powerful."
+    }
+  ]
+}
