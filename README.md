@@ -1,4 +1,4 @@
-# Ctrl+AI — Customer Review Intelligence Platform
+# Customer Review Intelligence Platform
 
 ## Run
 
